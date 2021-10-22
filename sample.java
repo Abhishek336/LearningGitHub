@@ -5,5 +5,8 @@ class sample
         System.out.println("Hello World");
 System.out.println("in dev branch");
 
+System.out.println(" new change in dev branch");
+
+
     }
 }
